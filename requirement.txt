@@ -1,0 +1,16 @@
+REQUIREMENTS:
+# Core Libraries
+=========================
+numpy
+pandas
+opencv-python
+
+# Deep Learning
+=====================
+tensorflow
+keras
+
+# Image Preprocessing (for VGG16 etc.)
+tensorflow.keras.applications
+
+
